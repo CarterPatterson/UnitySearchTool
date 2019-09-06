@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  HandleGrabber.cpp
+     Creating library D:\Unity Projects\Search Tool\HandleGrabberSource\x64\Release\HandleGrabber.lib and object D:\Unity Projects\Search Tool\HandleGrabberSource\x64\Release\HandleGrabber.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Unity Projects\Search Tool\HandleGrabberSource\HandleGrabber\HandleGrabber.cpp(134): warning C4715: 'RetrieveDataNameFromID': not all control paths return a value
+  All 250 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HandleGrabber.vcxproj -> D:\Unity Projects\Search Tool\HandleGrabberSource\x64\Release\HandleGrabber.dll

@@ -1,0 +1,4 @@
+﻿  HandleGrabber.cpp
+c:\users\carter\source\repos\handlegrabber\handlegrabber\handlegrabber.cpp(134): warning C4715: 'RetrieveDataNameFromID': not all control paths return a value
+     Creating library C:\Users\Carter\source\repos\HandleGrabber\x64\Debug\HandleGrabber.lib and object C:\Users\Carter\source\repos\HandleGrabber\x64\Debug\HandleGrabber.exp
+  HandleGrabber.vcxproj -> C:\Users\Carter\source\repos\HandleGrabber\x64\Debug\HandleGrabber.dll
