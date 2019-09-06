@@ -1,5 +1,5 @@
 # UnitySearchTool
- A search plugin written in C++ and C# for Unity 2018.3
+ A Windows Menu Item search plugin written in C++ and C# for Unity 2018.3
  
  # Motivation
  Originally written to be a Windows based solution to MacOS's search function.
